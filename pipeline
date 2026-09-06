@@ -1,3 +1,6 @@
+#bulid with choice parameters
+apply/destroy
+
 pipeline{
     agent any
     stages {
